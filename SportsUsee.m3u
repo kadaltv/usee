@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="Usee Sport",Usee Sport 1
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesport
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="Usee Sport",Usee Sport 2
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=useesports2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="Usee Sport",Bein Sport 1
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="Usee Sport",Bein Sport 2
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=bein2
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="Usee Sport",CHAMPION TV 1 HD
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion1
+
+#EXTINF:-1tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="Usee Sport",CHAMPION TV 2 HD
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=champion2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Usee Sport",FOX SPORTS 1 HD 
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport1
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Usee Sport",FOX SPORTS 2 HD 
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport2
+
+#EXTINF:-1tvg-logo="https://i.postimg.cc/fLf47pdY/Fox-Sports.png" group-title="Usee Sport",FOX SPORTS 3 HD 
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=foxsport3
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Usee Sport",EGG
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=egg
+
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5b/UseeTV.png/200px-UseeTV.png" group-title="Usee Sport",NBA
+https://birutv.com/get_birutv/telegram@birutv/m3u8.php?channel=nba
