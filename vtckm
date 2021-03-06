@@ -1,0 +1,259 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTKh9jjK/logo-net-big1.png" group-title="INDONESIA",NET TV HD [Usee]
+https://fikrulmkc.my.id/bagus/usee-net.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="INDONESIA",RCTI [R+]
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDhg2YSx/rctilogo.png" group-title="INDONESIA",RCTI [Vidio]
+https://andriant.net/baru/rcti.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="INDONESIA",GLOBAL TV [R+]
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Jz536C8f/logo-globaltv-big1.png" group-title="INDONESIA",GLOBAL TV [Vidio]
+https://andriant.net/baru/gtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3rqtmhr9/inewstv.png" group-title="INDONESIA",INEWS [R+]
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjqHB3dL/logo-indosiar-big1.png" group-title="INDONESIA",INDOSIAR [Usee]
+https://fikrulmkc.my.id/bagus/usee-indosiar.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5yZbbzh/logo-sctv-big1.png" group-title="INDONESIA",SCTV HD [Usee]
+https://fikrulmkc.my.id/bagus/usee-sctv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1TgJYZX/logo-transtv-big1.png" group-title="INDONESIA",TRANS TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-transtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNWcRbnn/logo-trans7-big1.png" group-title="INDONESIA",TRANS 7 [Usee]
+https://fikrulmkc.my.id/bagus/usee-trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnNp61jD/logo-metrotv-big1.png" group-title="INDONESIA",METRO TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhhXpyPX/logo-rtv-big1.png" group-title="INDONESIA",RTV [Usee]
+https://fikrulmkc.my.id/bagus/usee-rtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pL3v64BB/logo-balitv-big1.png" group-title="INDONESIA",BALI TV
+https://fikrulmkc.my.id/bagus/usee-balitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yVMKkPy/logo-daaitv-big1.png" group-title="INDONESIA",DAAI TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-daaitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvJ67hfF/elshinta.png" group-title="INDONESIA",ELSHINTA TV
+https://andriant.net/andrian.m3u8?channel=elshinta
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSX67Nh8/logo-jaktv-big1.png" group-title="INDONESIA",JAK TV 
+https://andriant.net/andrian.m3u8?channel=jaktv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g23p14BF/logo-rri-big1.png" group-title="INDONESIA",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnfB7pm3/logo-tvone-big1.png" group-title="INDONESIA",TV ONE [Dens]
+http://210.210.155.35/qwr9ew/s/s105/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4rwUHF0.png" group-title="LOKAL",JITV [Usee]
+https://fikrulmkc.my.id/bagus/usee-jitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zfpy6xkj/matrix-tv.png" group-title="LOKAL",MATRIX TV
+https://andriant.net/andrian.m3u8?channel=matrixtv
+
+#EXTINF:-1 tvg-id="oxygentv" tvg-logo="https://i.postimg.cc/MTtCJQcV/OXYGEN-TV.png" group-title="LOKAL",Oxygen TV
+https://andriant.net/andrian.m3u8?channel=oxygentv
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wBZNfyvT/logo-ruangtrampil-big.png" group-title="LOKAL",RUANG TAMPIL [Usee]
+https://andriant.net/baru/useeinfo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjmdHDz8/logo-useephoto-big.png" group-title="LOKAL",USEE PHOTO [Usee]
+https://fikrulmkc.my.id/bagus/usee-useephoto.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fWxdCbhD/logo-useeprime-big1.png" group-title="LOKAL",USEE PRIME [Usee]
+https://andriant.net/baru/useeprime.m3u8
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9zvqg6X/logo-mtatv-big1.png" group-title="RELIGI",MTA TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-mtatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BQVX6JFG/logo-tvmui-big.png" group-title="RELIGI",MUI TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-muitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XvFZmtp6/logo-muhammadiyahtv-big1.png" group-title="RELIGI",Muhammadiyah TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-muhammadiyahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3z4WFht/logo-mqtv-big1.png" group-title="RELIGI",MQTV [Usee]
+https://fikrulmkc.my.id/bagus/usee-mqtv.m3u8
+
+===========================================================
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/SsyTYFfh/logo-mtvlive-big.png" group-title="MUSIC ASIA",MTV LIVE HD
+https://fikrulmkc.my.id/bagus/usee-mtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gjqKqhch/CINEMAX.png" group-title="HBO And FOX",CINEMAX HD
+https://andriant.net/baru/hbo-maxhd.m3u8
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/5Ng3X8Rd/10626165-ico.png" group-title="HBO And FOX",HBO
+https://fikrulmkc.my.id/film/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhDcYv4M/10626274-ico.png" group-title="HBO And FOX",HBO FAMILY
+https://andriant.net/baru/hbo-famhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="HBO And FOX",HBO HITS
+https://andriant.net/baru/hbo-hitshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkNFn5xS/10626238-ico.png" group-title="HBO And FOX",HBO HITS [TES]
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjPk4Btd/10626267-ico.png" group-title="HBO And FOX",HBO SIGNATURE
+https://andriant.net/baru/hbo-sighd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6FnzMhN/RED-BY-HBO.png" group-title="HBO And FOX",RED by HBO
+https://andriant.net/baru/hbo-redhd.m3u80
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fyW26j0h/drakor-plus.png" group-title="KOREA",Drakor Plus
+https://andriant.net/andrian.m3u8?channel=drakorplus
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/44wFpMr4/logo-kbsw-orld-small.png" group-title="KOREA",KBS WORLD 
+https://fikrulmkc.my.id/bagus/usee-kbsworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ag8U7MZ.png" group-title="KOREA",SONY GEM [Usee]
+https://fikrulmkc.my.id/bagus/usee-sgem.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2dKuM48.png" group-title="KOREA",SONY ONE [Usee]
+https://fikrulmkc.my.id/bagus/usee-sone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sDykN1U.png" group-title="KOREA",TVN Movies [Usee]
+https://fikrulmkc.my.id/bagus/usee-tvnmovies.m3u8
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pXUO2cD.png" group-title="HIBURAN INDO",ATV
+https://andriant.net/andrian.m3u8?channel=atv
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4GZHZLg.png" group-title="HIBURAN INDO",Bioskop Indonesia [Usee]
+https://fikrulmkc.my.id/bagus/usee-bioskopindonesia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5C5seoy.png" group-title="HIBURAN INDO",Citra DRAMA [Usee]
+https://fikrulmkc.my.id/bagus/usee-cdrama.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXBP9BFs/logo-dunialain-big.png" group-title="HIBURAN INDO",DUNIA LAIN [Usee]
+https://fikrulmkc.my.id/bagus/usee-dunialain.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13p5v7w3/logo-eatgo-big1.png" group-title="HIBURAN INDO",Eat&GO [Usee]
+https://fikrulmkc.my.id/bagus/usee-eatgo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1uSqNhS.png" group-title="HIBURAN INDO",FLIK [Usee]
+https://fikrulmkc.my.id/bagus/usee-flik.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RypYxLK.png" group-title="HIBURAN INDO",IMC [Usee]
+https://fikrulmkc.my.id/bagus/usee-imc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Z5BNNgX2/MCINE-CHANNEL.png" group-title="HIBURAN INDO",MCINE CHANNEL
+https://andriant.net/andrian.m3u8?channel=mcine
+
+===========================================================
+#EXTINF:-1 tvg-id="sinemaindonesia" tvg-logo="https://i.postimg.cc/T3RrNN8k/SINEMA-INDONESIA.png" group-title="HIBURAN INDO",SINEMA INDONESIA
+https://andriant.net/andrian.m3u8?channel=sinemaindonesia
+
+#EXTINF:-1 tvg-id="sinemaindonesiax" tvg-logo="https://i.postimg.cc/9FPdp5kR/SINEMA-INDONESIA-X.png" group-title="HIBURAN INDO",SINEMA INDONESIA X
+https://andriant.net/andrian.m3u8?channel=sinemaindonesia-x
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMLhZSTr/logo-zbioskop-big1.png" group-title="HIBURAN INDO",ZEEBIOSKOP [Usee]
+https://fikrulmkc.my.id/bagus/usee-zbioskop.m3u8
+
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/LXs6gf16/CETV-1.png" group-title="HIBURAN",CETV 1
+https://andriant.net/andrian.m3u8?channel=cetv1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dsacV5Y.png" group-title="HIBURAN",CINEMA WORLD [Usee]
+https://andriant.net/baru/cinemaworld.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/taFYfFw.png" group-title="HIBURAN",GALAXY [Usee]
+https://fikrulmkc.my.id/bagus/usee-galaxy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xjhTqXTn/grey-logo-galaxypremium-small.png" group-title="HIBURAN",Galaxy Premium [Usee]
+https://fikrulmkc.my.id/bagus/usee-galaxypremium.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IdRLHPr.png" group-title="HIBURAN",THRILL [Usee]
+https://fikrulmkc.my.id/bagus/usee-thrill.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0sHqMle.png" group-title="HIBURAN",WARNER TV [Usee]
+https://andriant.net/baru/warner.m3u8
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1dXWRB3.png" group-title="KIDS",ANIPLUS [Usee]
+https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B52jTFU.png" group-title="KIDS",ANIMAX [Usee}
+https://fikrulmkc.my.id/bagus/usee-animax.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJFBxm8D/logo-babyfirst-big.png" group-title="KIDS",Baby First [Usee}
+https://fikrulmkc.my.id/bagus/usee-babyfirst.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oND7sRs.png" group-title="KIDS",DreamWorks [Usee]
+https://fikrulmkc.my.id/bagus/usee-dreamworks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KTyqMGo.png" group-title="KIDS",DUCK TV [Usee]
+https://fikrulmkc.my.id/bagus/usee-ducktv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UIb4tOv.png" group-title="KIDS",Dunia Anak [Usee]
+https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTxT7m5S/MENTARI-TV.png" group-title="KIDS",Mentari TV HD
+https://andriant.net/andrian.m3u8?channel=mentaritv
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FFkpNBG.png" group-title="BEIN SPORTS",BeIN Sports 1 [Usee]
+https://fikrulmkc.my.id/bagus/usee-bein1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnZHNOz.png" group-title="BEIN SPORTS",BeIN Sports 2 [Usee]
+https://fikrulmkc.my.id/bagus/usee-bein2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GdIXusA.png" group-title="SPORT INDO",Champion 1 HD [Usee]
+https://fikrulmkc.my.id/bagus/usee-champion1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sizF3bc.png" group-title="SPORT INDO",Champion 2 HD [Usee]
+https://fikrulmkc.my.id/bagus/usee-champion2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2SxhATF.png" group-title="SPORT INDO",FOX SPORT [Usee]
+https://fikrulmkc.my.id/bagus/usee-foxsport1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ivn2R9M.png" group-title="SPORT INDO",FOX SPORT 2 [Usee]
+https://fikrulmkc.my.id/bagus/usee-foxsport2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9wUfhPG.png" group-title="SPORT INDO",FOX SPORTS 3 [Usee]
+https://fikrulmkc.my.id/bagus/usee-foxsport3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OyYQwWX.png" group-title="SPORT INDO",NBA TV
+https://fikrulmkc.my.id/bagus/usee-useesports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G5JPexu.png" group-title="SPORT INDO",UseeSports 
+https://fikrulmkc.my.id/bagus/usee-useesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IQxKPi2.png" group-title="SPORT INDO",UseeSports 2 
+https://fikrulmkc.my.id/bagus/usee-nba.m3u8
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZV1xoC7.png" group-title="KNOWLEDGE",A.F.N [Usee]
+https://andriant.net/baru/afc.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QeJmRDL.png" group-title="KNOWLEDGE",NATGEO PEOPLE [Usee]
+https://andriant.net/baru/natgeopeople.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Idgzpai.png" group-title="KNOWLEDGE",NATGEO WILD [Usee]
+https://andriant.net/baru/natgeowild.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d3ft4td.png" group-title="KNOWLEDGE",NAT GEOGRAPHIC [Usee]
+https://andriant.net/baru/natgeo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsT49Wh0/logo-aljazeera-small1.png" group-title="NEWS", Aljazeera 
+https://andriant.net/andrian.m3u8?channel=aljazeera
+
+===========================================================
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NM9ThbT3/logo-bloomberg-small1.png" group-title="NEWS",BLOOMBERG
+https://andriant.net/andrian.m3u8?channel=bloomberg
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C9dDKDR/logo-cctv4-big1.png" group-title="NEWS",CCTV 4
+https://andriant.net/andrian.m3u8?channel=cctv4asia
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMH86LZH/CNBC-INDO.png" group-title="NEWS",CNBC INDONESIA
+https://andriant.net/andrian.m3u8?channel=cnbc
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Yw3xTvW/logo-dwtv-big.png" group-title="NEWS", DW (English)
+https://andriant.net/andrian.m3u8?channel=dwenglish
+
+
+
+
+
