@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=1280x720,NAME="720p"
-https://cdn11jtedge.useetv.com/joss/15/bein1/chunklist_w719652023_b1344100_sleng.m3u8?enc=-2AZE3fRGI881wWqSM8RtA&exp=1608732786
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=941569&extension=m3u8&play_token=xdbt7BgLik
